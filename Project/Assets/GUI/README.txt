@@ -1,0 +1,1 @@
+This folder should contain anything related to any GUIs we might implement.

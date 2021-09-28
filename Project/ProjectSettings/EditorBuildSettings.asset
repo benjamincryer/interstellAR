@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/MainMenu.unity
+    guid: 3e313e56eace3fc41a59e12cddb788bc
+  - enabled: 1
+    path: Assets/Scenes/MainMenuAnimated.unity
+    guid: 723dfa79ce53d1949b4d2bce25b9b19e
+  - enabled: 1
+    path: Assets/Scenes/ARScene.unity
+    guid: 815116f4221cfb64db8c14816e1e89e7
+  - enabled: 0
+    path: Assets/Scenes/TestScenes/0_LOAD.unity
+    guid: 95d2f5b21c182f441b979c57c62d42c4
+  - enabled: 0
+    path: Assets/Scenes/TestScenes/UnitFormationScene.unity
+    guid: 5b76ca2e247bda0428de7c7ba0e2d184
+  - enabled: 0
+    path: Assets/Scenes/TestScenes/GalaxyGenerationScene.unity
+    guid: 62c2375ed55660c4b90b6e80c6e01e81
+  - enabled: 0
+    path: Assets/Scenes/TestScenes/BattleScene.unity
+    guid: 46cdb2cf510d1624ea23693bbce2f352
+  - enabled: 0
+    path: Assets/Scenes/TestScenes/MiningScene.unity
+    guid: d49b893cea539264bb3586842aad3976
+  m_configObjects: {}
